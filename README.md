@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# 🤖 BiteBuddy — AI Calorie Tracker & Food Analysis App
 
-First, run the development server:
+BiteBuddy is an **AI-powered calorie tracker** and **food analysis app** designed to help users track their nutrition, analyze meals, and monitor progress toward health goals.  
+This website is the **official landing page** where users can learn about BiteBuddy, download the app, and access documentation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌐 Live Website & Downloads
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Website:** [Your deployed URL here](https://bitebw.vercel.app)  
+- **App Download:** [Link to Download Apk](https://bitebw.vercel.app/BiteBuddy.apk)
+- **Documentation:** [Link to Documentation]  (https://bitebdocs.vercel.app/)
+- **Source Code:** [Source](https://github.com/anshxs/bite-buddy)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📸 Project Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+![Create Next App · 15 20 · 09-30](https://github.com/user-attachments/assets/ad34d69b-fb8f-41f3-8bbc-56bb17727444)
+![Create Next App · 15 21 · 09-30](https://github.com/user-attachments/assets/8845d3ed-9821-4024-9616-5cfa4b245a5d)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 Project Overview
 
-## Deploy on Vercel
+BiteBuddy offers a full suite of features for health-conscious users:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 🍽 **Food Analysis** – Upload meals or take pictures to get instant nutritional breakdown.  
+- 📊 **Calorie Tracking** – Log daily meals and monitor calorie intake.  
+- 📈 **Progress Tracking** – Track health metrics and goals over time.  
+- 🤖 **AI Insights** – Personalized recommendations based on dietary habits.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ⚙️ Tech Stack
+
+- **Next.js** – Modern React framework  
+- **TailwindCSS** – Responsive, modern styling  
+- **TensorFlow / AI APIs** – For food analysis and calorie estimation  
+- **Firebase / MongoDB** – Data storage and authentication  
+- **Framer Motion** – Smooth animations and UI transitions  
+
+---
+
+## 🚀 Features
+
+- AI-powered food recognition  
+- Calorie and nutrition tracking  
+- User progress dashboard  
+- Meal history with search and filtering  
+- Downloadable app via official landing page  
+
+---
+
+## 📬 Contact & Support
+
+For inquiries or support:  
+📧 [Your Email Here](anshsxa@gmail.com)  
+
+---
+
+© 2024 **BiteBuddy** • *AI Calorie Tracker & Food Analysis App*
