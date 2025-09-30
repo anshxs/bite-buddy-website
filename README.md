@@ -8,7 +8,7 @@ This website is the **official landing page** where users can learn about BiteBu
 
 ## 🌐 Live Website & Downloads
 
-- **Website:** [Your deployed URL here](https://bitebw.vercel.app)  
+- **Website:** [Deployed version od this code](https://bitebw.vercel.app)  
 - **App Download:** [Link to Download Apk](https://bitebw.vercel.app/BiteBuddy.apk)
 - **Documentation:** [Link to Documentation]  (https://bitebdocs.vercel.app/)
 - **Source Code:** [Source](https://github.com/anshxs/bite-buddy)
